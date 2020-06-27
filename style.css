@@ -1,0 +1,80 @@
+body {
+    background-image: url('bckgrnd\ image.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+  
+.heading{
+    text-align: center;
+    font-size: 70px;
+    color: black;
+    margin-top: 90px;
+}
+
+.main{
+    border: 5px solid black;
+    box-shadow: 5px 5px 5px 10px black;
+    height: 350px;
+    width: 450px;
+    background-color:white;
+    margin: 0 auto;
+    margin-top: 30px;
+    border-radius: 30px;
+}
+
+#display{
+    height: 70px;
+    width: 400px;
+    margin-left: 20px;
+    margin-top: 20px;
+    margin-bottom: 10px;
+    font-size: 50px;
+    background-color:white;
+    color: black;
+    border-radius: 20px;
+}
+
+.numbtn{
+    width: 80px;
+    margin-top: 5px;
+    height: 50px;
+    margin-left: 20px;
+    background-color: black;
+    color: silver;
+    font-size: larger;
+    border-radius: 50%;
+}
+
+.numbtnopr{
+    width: 80px;
+    margin-top: 5px;
+    height: 50px;
+    margin-left: 20px;
+    background-color:silver;
+    color: black;
+    font-size: larger;
+    border-radius: 50%;
+}
+
+.numbtnlast{
+    width: 80px;
+    margin-top: 5px;
+    height: 50px;
+    margin-left: 20px;
+    background-color: black;
+    color: silver;
+    font-size: larger;
+    border-radius: 50%;
+}
+
+.numbtnreset{
+    width: 80px;
+    margin-top: 5px;
+    height: 50px;
+    margin-left: 20px;
+    background-color:black;
+    color:silver;
+    font-size: larger;
+    border-radius: 50%;
+}
